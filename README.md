@@ -53,18 +53,3 @@ You can directly use the app online without installation:
 | JavaScript / React | Functionality & State |
 | LocalStorage | Save Tasks |
 | Netlify | Deployment |
-
----
-
-## 📌 Project Structure (Example)
-
-```bash
-focus-flow/
-│── src/
-│   ├── components/
-│   ├── assets/
-│   ├── App.jsx
-│   └── index.js
-│
-│── public/
-│── README.md
