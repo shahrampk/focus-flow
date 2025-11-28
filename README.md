@@ -4,13 +4,6 @@ Focus Flow is a **Productivity Dashboard** that combines a **Pomodoro-style coun
 
 ---
 
-## 🖼️ Preview
-
-![Focus Flow Screenshot](https://i.ibb.co/wr01gSy7/Screenshot-2025-11-28-193846.png)
-
-> _Modern UI with elegant gradients, smooth interactions, and clean layout._
-
----
 
 ## ✨ Features
 
